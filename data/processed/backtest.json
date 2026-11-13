@@ -1,0 +1,16 @@
+{
+  "train 2013->18, test 2018->21": {
+    "model_MAE_pp": 14.01,
+    "baseline_MAE_pp": 11.28,
+    "model_winner_acc": 0.321,
+    "baseline_winner_acc": 0.607,
+    "resid_sd_pp": 16.95
+  },
+  "train 2018->21, test 2013->18": {
+    "model_MAE_pp": 13.14,
+    "baseline_MAE_pp": 17.75,
+    "model_winner_acc": 0.607,
+    "baseline_winner_acc": 0.679,
+    "resid_sd_pp": 15.17
+  }
+}
